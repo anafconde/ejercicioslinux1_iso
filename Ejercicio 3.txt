@@ -1,1 +1,2 @@
+3. Utilizando la trayectoria absoluta, crear los directorios programa y ejercici.
 user@pcuser:$ mkdir /home/user/programa /home/user/ejercici
