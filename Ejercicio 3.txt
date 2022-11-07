@@ -1,1 +1,1 @@
-user@pcuser:$ mk(dir) -p /home/user/programa /home/user/ejercici
+user@pcuser:$ mkdir -p /home/user/programa /home/user/ejercici
