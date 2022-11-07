@@ -1,6 +1,7 @@
 # RELACIÓN 1 DE EJERCICIOS GNU/LINUX
 
 ### ------ @Autora: Ana Fuentes-----
+### ------ @email: ana@iesiliberis.com--
 
 Crear la siguiente estructura de directorios, pero en el orden que van indicando los ejercicios.
 
