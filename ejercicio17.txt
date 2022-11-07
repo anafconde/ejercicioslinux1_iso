@@ -1,0 +1,4 @@
+17. Borrar todos los archivos del directorio PROGRAMA cuya primera letra en la
+extensión sea B.
+
+david@pcdavid/home/david/ del C/PROGRAMA/*.B*
