@@ -1,0 +1,2 @@
+Ejercicio 6, francisco bayo vedia
+$ Touch /HOME/NOMBRE_USUARIO/RESULT/C.DAT /HOME/NOMBRE_USUARIO/RESULT/C.BAK
