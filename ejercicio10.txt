@@ -1,0 +1,3 @@
+usuario@usuario-virtualbox:-$rename ..\..\RESULT\TEXTO1.BAS TEXTO1.BAK
+
+
