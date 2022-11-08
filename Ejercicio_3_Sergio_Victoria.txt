@@ -1,0 +1,5 @@
+3. Utilizando la trayectoria absoluta, crear los directorios PROGRAMA y EJERCICI.
+
+user@pcuser:$ mk(dir)  /home/user/c/programa /home/user/c/ejercici
+
+-En el comando mk se puede usar como mkdir
