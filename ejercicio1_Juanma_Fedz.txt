@@ -1,2 +1,4 @@
+1. Crear los directorios PRINCIP, DATOS, y C desde el directorio raíz.
 
+usuario@debian:~$
 usuario@debian:~$ mkdir PRINCIP DATOS C
