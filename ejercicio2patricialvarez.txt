@@ -1,0 +1,8 @@
+2. Cambiar al directorio PRINCIP. Crear el directorio RESULT utilizando la trayectoria relativa. 
+
+ana@pcana: ls
+ana@pcana: C DATOS PRINCIP
+ana@pcana: cd PRINCIP
+ana@pcana: -/PRINCIP$ mkdir./RESULT
+ana@pcana:-/PRINCIP$ ls
+RESULT
