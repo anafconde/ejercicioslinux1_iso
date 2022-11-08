@@ -1,0 +1,6 @@
+20.Explica que archivos y directorios muestran el comando “ls” con las siguientes 
+expresiones:
+
+e. [123]???t* -> Empieza por 123, luego tiene 3 caracteres mas y acaba en t.
+
+d. [1-3]???t* -> Empieza por los numeros del 1 al 3, seguido de 3 caracteres, y por ultima acaba en t.

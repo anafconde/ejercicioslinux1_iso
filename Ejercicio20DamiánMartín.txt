@@ -1,0 +1,13 @@
+20. Explica que archivos y directorios muestran el comando “ls” con las siguientes
+expresiones:
+
+f. [dD]ocs
+Lista todos los archivos y directorios que empiecen por d minúscula o D mayúscula
+y que terminen en "ocs"
+Ej: En este caso podría listar si existiesen tanto "docs" como "Docs".
+
+g. [!0-9]?.*
+Lista todos los archivos que no empiezen por un número, que tengan en la segunda 
+posición un caracter y que tengan cualquier extensión, ya que indica que en la 
+tercera posición tiene que tener un punto y luego tiene que proseguir con cualquier
+cantidad de caracteres o dígitos.

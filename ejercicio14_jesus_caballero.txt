@@ -1,0 +1,19 @@
+14. Cambiar, en el directorio RESULT, la extensión de todos los archivos por la
+extensión DAT
+
+
+
+jesus@pcjesus/home/jesus/ mv /home/nombre_usuario/RESULT/C.BAK mv /home/nombre_usuario/RESULT/C.DAT
+
+jesus@pcjesus/home/jesus/ mv /home/nombre_usuario/RESULT/TEXTO.TXT mv /home/nombre_usuario/RESULT/TEXTO.DAT
+
+jesus@pcjesus/home/jesus/ mv /home/nombre_usuario/RESULT/TEXTO.BAK mv /home/nombre_usuario/RESULT/TEXTO.DAT
+
+jesus@pcjesus/home/jesus/ mv /home/nombre_usuario/RESULT/TEXTO.BAS mv /home/nombre_usuario/RESULT/TEXTO.DAT
+
+
+
+
+
+
+ 
