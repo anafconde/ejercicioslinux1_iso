@@ -1,0 +1,5 @@
+20. Explica que archivos y directorios muestran el comando “ls” con las siguientes
+expresiones:
+
+a. *[ab].*
+busca archivos que contengan los caracteres a o b.
