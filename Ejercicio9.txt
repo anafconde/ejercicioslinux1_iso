@@ -1,0 +1,1 @@
+usuario@usuario-virtualbox:-$ cp TEXT*.BA? c:\RESULT
