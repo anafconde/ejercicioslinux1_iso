@@ -1,0 +1,12 @@
+18. Crear, en RESULT, tres ficheros, FICH1, FICH2 y FICH3
+
+Para crear 3 ficheros en el directorio RESULT lo haremos de la siguiente manera:
+
+Estando en el directorio /home/rafa entramos directamente en el directorio RESULT utilizando el comando "cd".
+
+rafa@pcrafa/home/rafa cd RESULT
+
+Una vez dentro utilizaremos el comando "touch" para crear los ficheros:
+
+rafa@pcrafa/home/rafa/RESULT touch FICH1 FICH2 FICH3
+
