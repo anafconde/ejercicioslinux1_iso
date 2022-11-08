@@ -1,0 +1,7 @@
+4.  En el directorio EJERCICI, utilizando la trayectoria relativa, crear el resto de 
+directorios.
+
+
+
+eman@emanDesktop:~/c/ejercici& mkdir ../nuevos ../revisado
+
