@@ -1,0 +1,4 @@
+Para cambiar el nombre a un directorio lo primero que debemos hacer es localizar donde tenemos el directorio.
+
+Una vez que tengamos localizado el directorio introducimos el comando "mv" y el nombre del directorio al que le vamos a cambiar el nombre, introducimos un espacio y seguido 
+pondremo nuestro nuevo nombre del directorio. 
