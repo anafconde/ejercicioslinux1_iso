@@ -1,0 +1,1 @@
+ laura@lauraDesktop:～/C/programa$ rmdir /home/laura/C/ejercici

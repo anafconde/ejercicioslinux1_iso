@@ -1,0 +1,2 @@
+
+usuario@debian:~$ mkdir PRINCIP DATOS C
